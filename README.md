@@ -164,7 +164,7 @@ If you use STEAR in your research, please cite:
 ```bibtex
 @article{stear2025,
   title   = {STEAR: Spatio-Temporal Evidence-Augmented Retracing for Video Large Language Models},
-  author  = {},
+  author  = {Linfeng Fan, Yuan Tian, Ziwei Li, Zhiwu Lu},
   year    = {2025},
 }
 ```
