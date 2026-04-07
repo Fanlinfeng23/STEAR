@@ -30,7 +30,7 @@ eval/
 
 ```bash
 # 1. Clone this repository
-git clone <repo_url>
+git clone [<repo_url>](https://github.com/Fanlinfeng23/STEAR)
 cd stear
 
 # 2. Install dependencies
